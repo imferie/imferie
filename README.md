@@ -45,7 +45,7 @@
 
 ### 🎓 Education
 * [Deep Learning School](https://en.misis.ru) (Since 2021)
-* [SESC UrFU]((https://lyceum.urfu.ru) (Since 2022)
+* [SESC UrFU](https://lyceum.urfu.ru) (Since 2022)
 * [Tinkoff Generation](https://fintech.tinkoff.ru/school/generation/) (Since 2022)
 
 
