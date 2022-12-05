@@ -11,23 +11,11 @@
   <a href="https://pytorch.org" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
   </a>
-  
-   <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
-  </a>
-  
-  <a href="https://albumentations.ai" target="_blank"> 
-    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" width="40" height="40"/>
-  </a>
 
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
   </a>
-  
-  <a href="https://spark.apache.org" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="spark" width="40" height="40"/>
-  </a>
-  
+
   <a href="https://plotly.com" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="plotly" width="40" height="40"/>
   </a>
@@ -61,42 +49,10 @@
 * [NUST MISiS](https://en.misis.ru) (Since 2021)
 * [Tinkoff Generation](https://fintech.tinkoff.ru/school/generation/) (Since 2022)
 
-### 👨‍💻 Work experience
-* Intern at [SBER](https://www.sberbank.ru) Cyber Security (July - December 2022):
-  - NLP: binray classifcation, multiclass classification (fraud type, method classification)
-  - Classic ML: binray classifcation with gradient boosting (fraud type classification)
-  - Graps: edge classification (fraud detection)
-  - Transaction sequence scoring (fraud detection)
-
-### 🏆 Competition Background
-* 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
-* 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
-* 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
-* 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
-* 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml) | [Solution](https://github.com/leffff/yandex_cup_nlp_2021)
-* 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
-
-### 🎉 Other Achievements
-* [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
-
-### Hobbies
-* 🏄‍♂️ Surfing
-* 🏊‍♂️ Swimming
-* 🏂 Snowboarding
 
 ### Contacts
 <p align="left"> 
-  <a href="https://t.me/lefffffffff" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
-  </a>
-  <a href="https://www.instagram.com/leffffffffffffff/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="android" width="30" height="30"/> 
-  </a>
-</p>
-
-### My blog
-<p align="left"> 
-  <a href="https://t.me/mlball_days" target="_blank"> 
+  <a href="https://t.me/imferie" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
   </a>
 </p>
