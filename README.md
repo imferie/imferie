@@ -1,5 +1,5 @@
 ## Ermakov Roman
-#### Machine learning engineer / Data Scientist
+#### Data Science enthusiast
 </br>
 
 ### 📊 ML stack
