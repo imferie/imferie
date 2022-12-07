@@ -1,5 +1,5 @@
 ## Ermakov Roman
-#### Data Science enthusiast
+#### data enthusiast
 </br>
 
 ### 📊 ML stack
